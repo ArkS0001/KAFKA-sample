@@ -1,5 +1,8 @@
 # KAFKA-sample
 
+![071f80d0-587b-4996-9b51-bbe52794b667](https://github.com/user-attachments/assets/0908f236-6ae0-4579-828a-a1046d42b8bc)
+
+
 ```
 📤 Producer: Sending -> Message 1
 📤 Producer: Sending -> Message 2
