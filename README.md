@@ -1,6 +1,6 @@
 # KAFKA-sample
 
-
+```
 📤 Producer: Sending -> Message 1
 📤 Producer: Sending -> Message 2
 📤 Producer: Sending -> Message 3
@@ -35,3 +35,4 @@
 🔴 Consumer-3: Stopping.
 🔴 Consumer-1: Stopping.
 🚀 Kafka-like pipeline with Round-Robin broker complete!
+```
